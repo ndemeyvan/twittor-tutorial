@@ -38,7 +38,7 @@ methods: {
 }
 </script>
 
-<style >
+<style scoped>
 .twoot-item{
     padding:20px;
     background-color: white;
